@@ -1,0 +1,102 @@
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\bin\Debug\1lab.exe
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\bin\Debug\1lab.pdb
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.Form1.resources
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\1lab.exe
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\1lab.pdb
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\пк\Desktop\торренты\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\bin\Debug\1lab.exe.config
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\bin\Debug\1lab.exe.config
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\1lab.exe
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\1lab.pdb
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\bin\Debug\1lab.exe
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\bin\Debug\1lab.pdb
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.Form1.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\Histogram_equalization-master\Histogram Eşitleme\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\bin\Debug\1lab.exe.config
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\1lab.exe
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\1lab.pdb
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\bin\Debug\1lab.exe
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\bin\Debug\1lab.pdb
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Form1.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.Cache
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Okrestnost.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Statistic.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Smooth.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.poryadkStat.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.nerezkMask.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Gradient.resources
+C:\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.laplasian.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\bin\Debug\1lab.exe.config
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\bin\Debug\1lab.exe
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\bin\Debug\1lab.pdb
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.csprojAssemblyReference.cache
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Form1.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Gradient.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.laplasian.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.nerezkMask.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.poryadkStat.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Smooth.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Okrestnost.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.Statistic.resources
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.cache
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\1lab.exe
+C:\Windows.old\Users\пк\Desktop\uTorrents\Histogram_equalization-master\1\1lab\obj\x86\Debug\1lab.pdb
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Form1.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\1lab.exe
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\1lab.pdb
+C:\Users\Константин\Desktop\1\1lab\bin\Debug\1lab.exe.config
+C:\Users\Константин\Desktop\1\1lab\bin\Debug\1lab.exe
+C:\Users\Константин\Desktop\1\1lab\bin\Debug\1lab.pdb
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Ideal.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Butterwort.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.gaus.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.laplas.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Noises2.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Noises1.resources
+C:\Users\Константин\Desktop\1\1lab\obj\x86\Debug\lab1.Recovery.resources
+C:\Users\Константин\Desktop\2\1lab\bin\Debug\1lab.exe.config
+C:\Users\Константин\Desktop\2\1lab\bin\Debug\1lab.exe
+C:\Users\Константин\Desktop\2\1lab\bin\Debug\1lab.pdb
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Butterwort.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Form1.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.gaus.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Ideal.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Noises2.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.laplas.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Noises1.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.Recovery.resources
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\1lab.exe
+C:\Users\Константин\Desktop\2\1lab\obj\x86\Debug\1lab.pdb
+E:\Univer\3 курс\2\1lab\bin\Debug\1lab.exe.config
+E:\Univer\3 курс\2\1lab\bin\Debug\1lab.exe
+E:\Univer\3 курс\2\1lab\bin\Debug\1lab.pdb
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.csprojAssemblyReference.cache
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Butterwort.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Form1.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.gaus.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Ideal.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Noises2.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.laplas.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Properties.Resources.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Noises1.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.Recovery.resources
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.cache
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\1lab.exe
+E:\Univer\3 курс\2\1lab\obj\x86\Debug\1lab.pdb
