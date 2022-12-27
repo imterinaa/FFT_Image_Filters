@@ -136,6 +136,11 @@ namespace lab1
             original.Unlock();
             Program.f1.pictureBox2.Image = rendered;
         }
+
+        private void Noises2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 //public static class StaticRandom

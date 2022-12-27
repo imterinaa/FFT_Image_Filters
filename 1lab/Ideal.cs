@@ -56,5 +56,10 @@ namespace lab1
             Program.f1.FFTInvers(FFT);
             Cursor.Current = Cursors.Default;          
         }
+
+        private void Ideal_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

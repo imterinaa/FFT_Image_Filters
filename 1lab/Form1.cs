@@ -430,6 +430,38 @@ namespace lab1
             }
         }
 
+        private void inverseFTToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (pictureBox1.Image != null)
+            {
+                if (b == true)
+                {   
+                    pictureBox1.Image = pictureBox2.Image;
+                    b = false;
+                }
+
+                gauss = 1;
+                
+                this.Enabled = false;
+              
+            }
+            else
+            {
+                message();
+            }
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
         private void GaussHight_Click(object sender, EventArgs e)
         {
             if (pictureBox1.Image != null)

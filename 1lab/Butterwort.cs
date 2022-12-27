@@ -56,6 +56,11 @@ namespace lab1
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
             label2.Text = trackBar1.Value.ToString();
-        }        
+        }
+
+        private void Butterwort_Load(object sender, EventArgs e)
+        {
+
+        }
     }    
 }

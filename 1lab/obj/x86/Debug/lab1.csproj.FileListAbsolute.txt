@@ -100,3 +100,21 @@ E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.cache
 E:\Univer\3 курс\2\1lab\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
 E:\Univer\3 курс\2\1lab\obj\x86\Debug\1lab.exe
 E:\Univer\3 курс\2\1lab\obj\x86\Debug\1lab.pdb
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\bin\Debug\1lab.exe.config
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\bin\Debug\1lab.exe
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\bin\Debug\1lab.pdb
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Butterwort.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Form1.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.gaus.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Ideal.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Noises2.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.laplas.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Properties.Resources.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Noises1.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.Recovery.resources
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.csproj.GenerateResource.cache
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\1lab.exe
+C:\Users\Dedmo\Source\Repos\FFT_Image_Filters\1lab\obj\x86\Debug\1lab.pdb

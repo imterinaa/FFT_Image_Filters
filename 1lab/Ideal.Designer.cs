@@ -42,9 +42,10 @@
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label9.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.label9.Location = new System.Drawing.Point(371, 65);
+            this.label9.Location = new System.Drawing.Point(495, 80);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(25, 15);
+            this.label9.Size = new System.Drawing.Size(36, 19);
             this.label9.TabIndex = 22;
             this.label9.Text = "460";
             // 
@@ -53,9 +54,10 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.label3.Location = new System.Drawing.Point(19, 65);
+            this.label3.Location = new System.Drawing.Point(25, 80);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(19, 15);
+            this.label3.Size = new System.Drawing.Size(27, 19);
             this.label3.TabIndex = 28;
             this.label3.Text = "10";
             // 
@@ -64,9 +66,10 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.label2.Location = new System.Drawing.Point(67, 9);
+            this.label2.Location = new System.Drawing.Point(89, 11);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(25, 19);
+            this.label2.Size = new System.Drawing.Size(30, 22);
             this.label2.TabIndex = 21;
             this.label2.Text = "10";
             // 
@@ -75,22 +78,23 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.ForeColor = System.Drawing.SystemColors.InfoText;
-            this.label1.Location = new System.Drawing.Point(12, 9);
+            this.label1.Location = new System.Drawing.Point(16, 11);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(59, 19);
+            this.label1.Size = new System.Drawing.Size(75, 22);
             this.label1.TabIndex = 20;
             this.label1.Text = "Радиус:";
             // 
             // trackBar1
             // 
             this.trackBar1.LargeChange = 1;
-            this.trackBar1.Location = new System.Drawing.Point(12, 39);
+            this.trackBar1.Location = new System.Drawing.Point(16, 48);
             this.trackBar1.Margin = new System.Windows.Forms.Padding(1);
             this.trackBar1.Maximum = 460;
             this.trackBar1.Minimum = 10;
             this.trackBar1.Name = "trackBar1";
             this.trackBar1.RightToLeftLayout = true;
-            this.trackBar1.Size = new System.Drawing.Size(384, 45);
+            this.trackBar1.Size = new System.Drawing.Size(512, 56);
             this.trackBar1.TabIndex = 19;
             this.trackBar1.Tag = "";
             this.trackBar1.TickFrequency = 10;
@@ -104,9 +108,10 @@
             this.IdealLowFr.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.IdealLowFr.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.IdealLowFr.ForeColor = System.Drawing.SystemColors.Desktop;
-            this.IdealLowFr.Location = new System.Drawing.Point(150, 110);
+            this.IdealLowFr.Location = new System.Drawing.Point(200, 135);
+            this.IdealLowFr.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.IdealLowFr.Name = "IdealLowFr";
-            this.IdealLowFr.Size = new System.Drawing.Size(108, 54);
+            this.IdealLowFr.Size = new System.Drawing.Size(144, 66);
             this.IdealLowFr.TabIndex = 29;
             this.IdealLowFr.Text = "Применить";
             this.IdealLowFr.UseVisualStyleBackColor = false;
@@ -114,18 +119,20 @@
             // 
             // Ideal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(409, 176);
+            this.ClientSize = new System.Drawing.Size(545, 217);
             this.Controls.Add(this.IdealLowFr);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.trackBar1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Ideal";
             this.Text = "Идеальный фильтр низких частот";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Ideal_FormClosing);
+            this.Load += new System.EventHandler(this.Ideal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.trackBar1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
